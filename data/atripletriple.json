@@ -36,6 +36,12 @@
             "link": "https://youtu.be/1uowwUya_1M",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "GFping",
+            "link": "https://www.youtube.com/watch?v=y_DVLAKxfUQ",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
