@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/ZeKXral552Y",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Skithy",
+            "link": "https://www.youtube.com/watch?v=CscqeK8vRnc",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
