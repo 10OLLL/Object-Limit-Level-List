@@ -131,6 +131,9 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
+                        There is no time limit🤑
+                    </p>
+                    <p>
                         Only a record of the unmodified level qualifies             
                     </p>
                     <p>
