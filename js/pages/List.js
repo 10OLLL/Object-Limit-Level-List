@@ -134,7 +134,7 @@ export default {
                         There is no time limit🤑
                     </p>
                     <p>
-                        Only a record of the unmodified level qualifies             
+                        Only a record of the unmodified level qualifies. if a level is impossible for you dm me on dc and I will make a fix for you (FoldedZero)           
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we dont accept records after it falls off
