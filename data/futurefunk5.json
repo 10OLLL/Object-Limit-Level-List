@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/r7kDmEpHUB8",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "Rusty",
+            "link": "https://youtu.be/uG_pQV09NIg?si=74xKom07xmV7hen6",
+            "hz": "360",
+            "percent": 100
+        }
     ]
 }
