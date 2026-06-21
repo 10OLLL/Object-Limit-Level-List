@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/EC0rKuvVfFM",
     "percentToQualify": "100",
     "records": [
+        {
+            "user": "GFping",
+            "link": "https://youtu.be/5Qm3T3TNu8A",
+            "hz": "240",
+            "percent": 100
+        }
     ]
 }
