@@ -60,6 +60,12 @@
             "link": "https://www.youtube.com/watch?v=IJzcJvR-k70",
             "hz": "60",
             "percent": 100
+        },
+        {
+            "user": "SpaceBK",
+            "link": "https://www.youtube.com/watch?v=mqFEs8yw85s",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
