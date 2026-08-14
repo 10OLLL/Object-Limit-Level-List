@@ -1,12 +1,12 @@
 {
-    "id": 000000000,
+    "id": 123456789,
     "name": "name",
     "author": "names",
     "creators": "",
     "verifier": "names",
     "verification": "blah",
     "percentToQualify": "100",
-    "fps":
+    "fps": "fps",
     "records": [
     ]
 }
