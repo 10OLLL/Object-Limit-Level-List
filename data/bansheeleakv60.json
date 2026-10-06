@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "fps": "60",
     "records": [
+        {
+            "user": "zis09",
+            "link": "https://www.youtube.com/watch?v=mqFEs8yw85s",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
